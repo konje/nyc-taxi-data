@@ -8,7 +8,6 @@
 # See https://github.com/toddwschneider/nyc-taxi-data/tree/f7ebdd7c0b9604ef76959ef2f13dea7b1a990f67
 # for the code/schema as it was at the time this script was written
 
-#Gratitude to James
 
 library(ggplot2)
 library(ggmap)
